@@ -5,4 +5,4 @@ git tracks changes of files.
 My stupid boss prefer SVN.
 I can connect remote respository.
 Creating a new branch is quick.
-Deleting a branch is quick.
+Deleting a branch is quick & simple.
