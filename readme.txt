@@ -8,3 +8,5 @@ Creating a new branch is quick.
 Deleting a branch is quick and simple.
 Git can merge branches.
 Repair a Bug.
+Repair Num.101 Bug.
+Repair Num.102 Bug.
