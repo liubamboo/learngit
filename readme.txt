@@ -7,3 +7,4 @@ I can connect remote respository.
 Creating a new branch is quick.
 Deleting a branch is quick and simple.
 Git can merge branches.
+Repair a Bug.
