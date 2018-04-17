@@ -10,3 +10,4 @@ Git can merge branches.
 Repair a Bug.
 Repair Num.101 Bug.
 Repair Num.102 Bug.
+Repair Num.200 Bug.
