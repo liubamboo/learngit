@@ -1,2 +1,3 @@
-#1 add coding utf-8
+<<<<<<< HEAD
+#1 merge & fix hello.py
 print('Hello World').
